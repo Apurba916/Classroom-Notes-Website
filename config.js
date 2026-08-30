@@ -1,1 +1,2 @@
-window.GNOSIS_API_BASE = 'https://your-backend-url.onrender.com';
+window.GNOSIS_API_BASE = 'https://classroom-notes-website.onrender.com';
+
